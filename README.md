@@ -10,4 +10,5 @@
           
 
 <p>https://jogo-virid-phi-96.vercel.app/</p>
-![juegoNSecreto](https://raw.githubusercontent.com/AnaFzCz/JuegoDeNumeroSecreto/main/juegoNSecreto.png)
+
+![juegoNSecreto](https://raw.githubusercontent.com/AnaFzCz/GitHubProjetoInicial/main/juegoNSecreto.png)
